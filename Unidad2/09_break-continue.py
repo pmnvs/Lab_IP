@@ -8,3 +8,4 @@ for numero in range(1, 6):
     if numero == 3:
         continue
     print("con continue: ", numero)
+    
